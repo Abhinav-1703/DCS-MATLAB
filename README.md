@@ -4,3 +4,6 @@ This repository contains a collection of MATLAB programs and snippets practiced 
 ## Codes
 - SAMPLE AND HOLD CIRCUIT
 - PCM ENCODER DECODER
+- QPSK
+- LINE CODES
+- BER 
